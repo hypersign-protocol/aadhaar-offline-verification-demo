@@ -1,0 +1,1 @@
+var e=`/assets/openjpegwasm_decode-B3gWTHpv.wasm`;export{e as default};
